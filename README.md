@@ -1,4 +1,1 @@
-<head>
-<style>
-Header{
-background color:blue
+<!DOCTYPE html>
